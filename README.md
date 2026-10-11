@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-The UI includes searchable, filterable stack cards, copyable code samples, reusable buttons, badges, and a live component showcase. It works at mobile widths and respects reduced-motion settings.
+The UI includes searchable, filterable stack cards, copyable code samples, reusable buttons, badges, and a live component showcase. It works at mobile widths and respects reduced-motion settings. The Docker image serves a second, source-focused gallery with examples from all ten stacks.
 
 ## Run the API examples
 

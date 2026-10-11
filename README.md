@@ -19,6 +19,8 @@ A compact, copy-friendly starter library for frontend components and backend API
 
 ## Run the React gallery
 
+To build and run the gallery in Docker, see [`DOCKER.md`](DOCKER.md).
+
 ```sh
 cd templates/react-ui
 npm install

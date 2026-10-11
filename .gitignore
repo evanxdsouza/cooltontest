@@ -1,0 +1,25 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+build/
+target/
+.gradle/
+.idea/
+
+# Generated build artifacts
+node_modules/
+dist/
+.svelte-kit/
+elm-stuff/
+target/
+_build/
+deps/
+__pycache__/
+*.beam
+*.ez
+*.dump
+*.tsbuildinfo
